@@ -1,0 +1,7 @@
+baseURL = "https://example.com/"
+languageCode = "ja-jp"
+title = "Toshiya Works"
+theme = "ananke"
+
+[pagination]
+  pagerSize = 10

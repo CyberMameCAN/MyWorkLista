@@ -1,0 +1,13 @@
+services:
+  hugo:
+    container_name: project-hugo
+    #image: klakegg/hugo:0.101.0-ubuntu
+    image: hugomods/hugo:exts
+    #user: '${UID}:${GID}'
+    volumes:
+      - .:/src
+    command: server --bind 0.0.0.0
+    ports:
+      - "1313:1313"
+    #tty: true
+    working_dir: /src
