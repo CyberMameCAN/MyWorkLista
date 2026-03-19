@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Toshiya Works</title>
-    <link>http://localhost:41225/works/</link>
-    <description>Recent content in Works on Toshiya Works</description>
+    <title>Works on CyberMameCAN&#39;s Works</title>
+    <link>http://localhost:44953/works/</link>
+    <description>Recent content in Works on CyberMameCAN&#39;s Works</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41225/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44953/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:44953/works/template/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/works/template/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;&#xA;&lt;h2 id=&#34;学び&#34;&gt;学び&lt;/h2&gt;&#xA;&lt;h2 id=&#34;次やること&#34;&gt;次やること&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>最初の作業メモ</title>
-      <link>http://localhost:41225/works/first-work/</link>
+      <link>http://localhost:44953/works/first-work/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41225/works/first-work/</guid>
+      <guid>http://localhost:44953/works/first-work/</guid>
       <description>&lt;p&gt;Hugo + Cloudflare Pages の練習用ページです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>エマープについて</title>
+      <link>http://localhost:44953/works/blog-20260312/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/works/blog-20260312/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;素数、逆から並び替えてもまた素数、こういう素数のことを&lt;strong&gt;エマープ&lt;/strong&gt;というらしい。&lt;/p&gt;&#xA;&lt;p&gt;Pythonでエマープを見つけるコードを書きました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.tstylestudio.com/2026/03/12/%e7%b4%a0%e6%95%b0%e3%81%a8%e3%82%a8%e3%83%9e%e3%83%bc%e3%83%97/&#34;&gt;素数とエマープ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

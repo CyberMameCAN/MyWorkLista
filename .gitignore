@@ -1,3 +1,25 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
 .env
 
-example
+# Docker
+docker-compose.override.yml
+
+# Hugo cache
+.hugo_build.lock
+
+# Node (将来使うかも)
+node_modules/
+
+# exampleディレクトリ（不要なら）
+example/

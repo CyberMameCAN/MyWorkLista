@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Toshiya Works</title>
-    <link>http://localhost:41225/tags/</link>
-    <description>Recent content in Tags on Toshiya Works</description>
+    <title>Tags on CyberMameCAN&#39;s Works</title>
+    <link>http://localhost:44953/tags/</link>
+    <description>Recent content in Tags on CyberMameCAN&#39;s Works</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41225/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44953/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare-Pages</title>
-      <link>http://localhost:41225/tags/cloudflare-pages/</link>
+      <link>http://localhost:44953/tags/cloudflare-pages/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41225/tags/cloudflare-pages/</guid>
+      <guid>http://localhost:44953/tags/cloudflare-pages/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:41225/tags/hugo/</link>
+      <link>http://localhost:44953/tags/hugo/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41225/tags/hugo/</guid>
+      <guid>http://localhost:44953/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:44953/tags/python/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>エマープ</title>
+      <link>http://localhost:44953/tags/%E3%82%A8%E3%83%9E%E3%83%BC%E3%83%97/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/tags/%E3%82%A8%E3%83%9E%E3%83%BC%E3%83%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技術ブログ</title>
+      <link>http://localhost:44953/tags/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/tags/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>素数</title>
+      <link>http://localhost:44953/tags/%E7%B4%A0%E6%95%B0/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44953/tags/%E7%B4%A0%E6%95%B0/</guid>
       <description></description>
     </item>
   </channel>

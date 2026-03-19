@@ -1,7 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = "https://myhub.to48.org/"
 languageCode = "ja-jp"
-title = "Toshiya Works"
+title = "CyberMameCAN's Works"
 theme = "ananke"
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 5

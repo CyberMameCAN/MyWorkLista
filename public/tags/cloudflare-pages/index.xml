@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloudflare-Pages on Toshiya Works</title>
-    <link>http://localhost:41225/tags/cloudflare-pages/</link>
-    <description>Recent content in Cloudflare-Pages on Toshiya Works</description>
+    <title>Cloudflare-Pages on CyberMameCAN&#39;s Works</title>
+    <link>http://localhost:44953/tags/cloudflare-pages/</link>
+    <description>Recent content in Cloudflare-Pages on CyberMameCAN&#39;s Works</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41225/tags/cloudflare-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44953/tags/cloudflare-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最初の作業メモ</title>
-      <link>http://localhost:41225/works/first-work/</link>
+      <link>http://localhost:44953/works/first-work/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41225/works/first-work/</guid>
+      <guid>http://localhost:44953/works/first-work/</guid>
       <description>&lt;p&gt;Hugo + Cloudflare Pages の練習用ページです。&lt;/p&gt;</description>
     </item>
   </channel>
