@@ -6,8 +6,15 @@
     <description>Recent content in ホーム on CyberMameCAN&#39;s Works</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golangのデバッグ環境を構築、Delveを使って</title>
+      <link>http://localhost:1313/works/blog-20260401/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/blog-20260401/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;やっと休日と天気が噛み合い、2026年最初のカヤックフィッシングに行ってきました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://egingerz.hatenablog.com/entry/2026/03/29/083828&#34;&gt;2026年初カヤック&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Golangのデバッグ環境を構築、Delveを使って</title>
       <link>http://localhost:1313/works/blog-20260331/</link>
