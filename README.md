@@ -28,7 +28,7 @@
 
 #### 入る
 
-    $ docker container exec -it project-hugo bash
+    $ docker container exec -it project-hugo sh
 
 #### コンテナ内で作業
 
